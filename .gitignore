@@ -1,0 +1,13 @@
+
+build/
+build*/
+cmake-build-*/
+.cache/
+compile_commands.json
+*.o
+*.a
+*.so
+*.out
+core
+.DS_Store
+
